@@ -1,6 +1,6 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Keoni Garner and I'm a software engineer from Bakersfield, CA. I'm currently working as a project manager for Avadine. 
+My name is Keoni Garner and I'm a software engineer from Bakersfield, CA. I'm currently working as a Python Engineer for Doctor on Demand. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
