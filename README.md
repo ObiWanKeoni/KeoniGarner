@@ -1,6 +1,6 @@
-# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Keoni Garner and I'm a software engineer from Bakersfield, CA. I'm currently working as a Python Engineer for Doctor on Demand. 
+My name is Keoni Garner and I'm a software engineer from Bakersfield, CA. I'm currently working as a Senior Software Engineer @ Included Health. 
 
 ## &#x1f4c8; GitHub Stats
 
@@ -11,5 +11,6 @@ My name is Keoni Garner and I'm a software engineer from Bakersfield, CA. I'm cu
 ---
 
 - 🔭 I’m currently working on a trading algorithm
-- 🌱 I’m currently learning AWS infrastructure
+- 🌱 I’m currently learning Golang
+- <img style="height: 1em; width: 1em" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg"/> Newfound NFT-enthusiast
 - ⚡ Fun fact: I understand an absurd amount of movie references without having seen the movies.
